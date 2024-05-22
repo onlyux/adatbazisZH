@@ -1,0 +1,4 @@
+hset iro:1 nev 'Kiss Bela' nemzetiseg 'magyar'
+hset iro:2 nev 'Nagy Istvan' nemzetiseg 'nemet'
+hset konyv:1:1 cim 'Asd' mufaj 'novella'
+hset konyv:2:2 cim 'Asd Asd' mufaj 'regeny'
